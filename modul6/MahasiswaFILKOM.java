@@ -1,5 +1,3 @@
-
-
 public class MahasiswaFILKOM extends Manusia {
     private String nim;
     private double ipk;
